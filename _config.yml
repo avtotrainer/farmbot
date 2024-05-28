@@ -1,6 +1,6 @@
 # Site settings
-title:          ᲑᲚᲝᲒᲘ
-description:    "მინიმალური Jekyll blog-ის თემა"
+title:          FARMBOT
+description:    "ნიადაგის პარამეტრების განსაზღვრა"
 baseurl:
 url:
 
@@ -13,8 +13,8 @@ google_analytics:
 # Author
 author:
   name:         ავთო ფანგანი
-  url:          https:/blog.din.ge
-  email:        blog@din.ge
+  url:          https:/farmbot.din.ge
+  email:        farmbot@din.ge
 
 # Build settings
 markdown:       kramdown
